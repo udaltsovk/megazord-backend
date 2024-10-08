@@ -43,6 +43,7 @@ async def signup(
         age=schema.age,
         city=schema.city,
         work_experience=schema.work_experience,
+        is_active=True
     )
     confirmation_code = await ConfirmationCode.generate(user=account)
 
