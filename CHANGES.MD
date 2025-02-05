@@ -21,6 +21,7 @@
 
 ### Bug Fixes
 
+- Fix reverse proxy (#103) - ([97b99d5](https://github.com/open-cu/megazord-backend/commit/97b99d5f677721277c97731894384303831eddd5))
 - Fix reverse proxy (#102) - ([ab9c152](https://github.com/open-cu/megazord-backend/commit/ab9c1522c91e503ada658156b6037f1034eecd0e))
 - Fix reverse proxy (#101) - ([14ea192](https://github.com/open-cu/megazord-backend/commit/14ea192a2003bff51b6385aa250ed33fbf8a63fb))
 - Csv export (#86) - ([c068963](https://github.com/open-cu/megazord-backend/commit/c0689637d01651847db4d2ddea0ad4511f3e719c))
