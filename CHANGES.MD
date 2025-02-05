@@ -1,5 +1,5 @@
 # Changelog
-## Unreleased - 04.02.2025
+## Unreleased - 05.02.2025
 
 ### Features
 
@@ -21,6 +21,7 @@
 
 ### Bug Fixes
 
+- Fix reverse proxy (#101) - ([14ea192](https://github.com/open-cu/megazord-backend/commit/14ea192a2003bff51b6385aa250ed33fbf8a63fb))
 - Csv export (#86) - ([c068963](https://github.com/open-cu/megazord-backend/commit/c0689637d01651847db4d2ddea0ad4511f3e719c))
 - Hackathon end mail notification (#81) - ([f6a1e24](https://github.com/open-cu/megazord-backend/commit/f6a1e24a15ed9053ad9cbc873b3749664eb65e45))
 - Add frontend url to settings (#73) - ([2a73566](https://github.com/open-cu/megazord-backend/commit/2a7356639e3dfeb2193d54056fced191c1664041))
